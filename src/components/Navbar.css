@@ -74,17 +74,23 @@
   transform: translate(0%, 10%);
 }
 .homepagecss{
-  margin-left: 275px;
-  margin-top: 275px;
+  /* margin-top: 280px; */
+  text-align: center;
+
 }
 .btns{
   margin-left: 75px !important;
-margin-top: 25px !important;
+  margin-top: 25px !important;
+}
+.homediv{
+  margin-left: 300px;
+  text-align: center;
+  width: 50vw;
 }
 .employeecss{
-  margin-left: 275px;
   margin-top: 250px;
-}
+  text-align: center;
+  }
 .InputLabel{
   margin: 10px !important;
 }
